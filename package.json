@@ -1,0 +1,23 @@
+{
+  "name": "blackjack-typescript",
+  "version": "1.0.0",
+  "description": "Simplified version of Blackjack in TypeScript, focusing on fundamental programming concepts and TypeScript's features. This project is designed to familiarize you with TypeScript syntax, object-oriented programming, and basic game development concepts within a Node.js environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljubogdan/blackjack-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljubogdan/blackjack-typescript/issues"
+  },
+  "homepage": "https://github.com/ljubogdan/blackjack-typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
